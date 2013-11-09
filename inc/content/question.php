@@ -1,1 +1,0 @@
-Page question (et choix de réponses)

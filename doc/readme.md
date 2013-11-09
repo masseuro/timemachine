@@ -1,1 +1,0 @@
-Ce dossier comprend la documentation associée au projet.
